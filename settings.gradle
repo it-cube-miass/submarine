@@ -1,0 +1,2 @@
+rootProject.name='Submarine'
+include ':app'
